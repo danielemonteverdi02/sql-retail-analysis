@@ -1,12 +1,10 @@
-# 📊 Retail SQL Analysis Project
+# 📊 Retail SQL Analysis
 
-## 📌 Project Overview
+## 📌 Overview
 
-This project is a SQL-based analysis of a retail database.  
-The goal is to explore sales performance, customer behavior, product trends, and store efficiency using relational data.
+This repository contains a collection of SQL exercises performed on a relational retail database.
 
-The analysis is performed using standard SQL techniques such as **JOINs, aggregations, GROUP BY, subqueries, and Common Table Expressions (CTEs)**.
-
+The goal of this project is to strengthen SQL skills by working with realistic business-like data, focusing on data extraction, aggregation, and relational analysis across multiple tables.
 ---
 
 ## 🎯 Objectives
